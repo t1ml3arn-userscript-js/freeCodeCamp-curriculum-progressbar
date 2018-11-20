@@ -4,7 +4,7 @@
 // @description Adds progressbar to each section's topic of curriculum
 // @match https://learn.freecodecamp.org/
 // @noframes
-// @version 1.0
+// @version 1.1
 // @license GPLv3
 // ==/UserScript==
 
@@ -21,7 +21,7 @@
         height: 10px;
         z-index: 1;
         position: absolute;
-        bottom: 1px;
+        bottom: 0;
     }
 
     .fcc-progressbar__bg {
