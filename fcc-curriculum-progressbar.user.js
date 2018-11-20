@@ -5,6 +5,7 @@
 // @match https://learn.freecodecamp.org/
 // @noframes
 // @version 1.0
+// @license GPLv3
 // ==/UserScript==
 
 (() => {
