@@ -23,3 +23,6 @@ Also would like to request a feature for the curriculum page: that be added a pr
 ## What is left for me?
 
 I still can implement progressbar. This I will do!
+
+## How does it look
+![screenshot](screenshot.jpg)
