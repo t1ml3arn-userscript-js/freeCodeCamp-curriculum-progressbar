@@ -2,9 +2,9 @@
 // @name freeCodeCamp curriculum progressbar
 // @namespace T1mL3arn
 // @description Adds progressbar to each section's topic of curriculum
-// @match https://learn.freecodecamp.org/
+// @match https://learn.freecodecamp.org/*
 // @noframes
-// @version 1.1
+// @version 1.2
 // @license GPLv3
 // ==/UserScript==
 
